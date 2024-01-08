@@ -7,8 +7,8 @@ This is a full-stack ToDo application built with Next.js on the frontend and Fas
 - Multi-tenant (todo)
 - JWT Auth (todo)
 - Streamlit client
-- Python Console client (requests)
-- Typescript Node.js client (axios)
+- Python Console client
+- Typescript Node.js client
 - Next.js client
 - pytests
 

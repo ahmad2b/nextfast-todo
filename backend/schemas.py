@@ -13,5 +13,5 @@ class TodoResponse(BaseModel):
     description: str
     completed: bool
 
-    class Config:
+    class ConfigDict:
         orm_mode = True
