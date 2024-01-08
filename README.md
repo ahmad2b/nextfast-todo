@@ -1,4 +1,4 @@
-# Fast ToDo App
+# Next Fast ToDo App
 
 This is a full-stack ToDo application built with Next.js on the frontend and FastAPI on the backend.
 
