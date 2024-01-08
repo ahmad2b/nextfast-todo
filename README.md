@@ -2,13 +2,40 @@
 
 This is a full-stack ToDo application built with Next.js on the frontend and FastAPI on the backend.
 
+## Features
+
+- Multi-tenant (todo)
+- JWT Auth (todo)
+- Streamlit client
+- Python Console client (requests)
+- Typescript Node.js client (axios)
+- Next.js client
+- pytests
+
 ## Frontend
 
 The frontend of the application is built with [Next.js](https://nextjs.org/)
 
+### Techstack
+
+- Next.js
+- TailwindCSS
+- ShadCn UI
+- zod
+- react-hook-form
+
 ## Backend
 
 The backend of the application is built with FastAPI, a modern, fast (high-performance), web framework for building APIs.
+
+### Techstack
+
+- FastAPI,
+- PostgresSQL
+- psycopg2
+- SQLAlchemy
+- Pytest
+- requests
 
 ## Interaction between Frontend and Backend
 
