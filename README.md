@@ -10,7 +10,7 @@ This is a full-stack ToDo application built with Next.js on the frontend and Fas
 - Python Console client
 - Typescript Node.js client
 - Next.js client
-- pytests
+- pytest
 
 ## Frontend
 

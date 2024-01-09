@@ -7,12 +7,13 @@ from starlette.exceptions import HTTPException as StarletteHTTPException
 from fastapi.middleware.cors import CORSMiddleware
 
 
-from routers import todos
+from routers import todos, auth
 
 import config
 
 app = FastAPI()
 app.include_router(todos.router, prefix="/todos")
+app.include_router(auth.router, prefix="/auth")
 
 origins = [
     "http://localhost:3000",
